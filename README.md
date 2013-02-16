@@ -32,7 +32,7 @@ setup
 
 usage
 --------------
-    $ python zaffy.py scenario_sample/httpTest.yml
+    $ python zaffy.py sample_scinario/httpTest.yml
       # using config file: zaffy.yml
     1..1
     ok 1 - HTTP テスト
